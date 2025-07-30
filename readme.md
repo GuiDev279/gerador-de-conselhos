@@ -31,9 +31,13 @@ Mensagens carregadas dinamicamente da API.
 📁 Estrutura do Projeto
 
 advice-generator-app-html-css/
+
 ├── index.html
+
 ├── style.css
+
 ├── script.js
+
 └── README.md
 
 💡 Observações
